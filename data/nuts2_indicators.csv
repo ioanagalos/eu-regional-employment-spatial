@@ -1,0 +1,250 @@
+﻿nutsid;Region_Name;Employment_Rate;Unemployment_2021;NEET_Youth
+BE10;Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;13,0;12,4;9,7
+BE21;Prov. Antwerpen;29,6;5,2;7,1
+BE22;Prov. Limburg (BE);34,9;3,4;6,7
+BE23;Prov. Oost-Vlaanderen;34,9;2,8;5,3
+BE24;Prov. Vlaams-Brabant;17,4;4,0;5,4
+BE25;Prov. West-Vlaanderen;33,3;3,6;5,1
+BE31;Prov. Brabant wallon;20,9;6,8;5,1
+BE32;Prov. Hainaut;18,7;10,3;12,5
+BE33;Prov. Liège;20,4;9,4;7,3
+BE34;Prov. Luxembourg (BE);29,0;5,6;7,5
+BE35;Prov. Namur;17,5;7,6;7,7
+BG31;Severozapaden;15,1;10,9;27,1
+BG32;Severen tsentralen;15,5;6,7;14,4
+BG33;Severoiztochen;19,0;5,9;14,9
+BG34;Yugoiztochen;16,7;5,5;19,1
+BG41;Yugozapaden;16,0;3,4;7,1
+BG42;Yuzhen tsentralen;16,9;3,9;14,5
+CZ01;Praha;22,6;2,3;3,6
+CZ02;Střední Čechy;23,6;2,5;6,1
+CZ03;Jihozápad;26,6;2,4;6,2
+CZ04;Severozápad;26,7;4,3;13,8
+CZ05;Severovýchod;25,3;2,4;4,6
+CZ06;Jihovýchod;24,1;2,4;5,3
+CZ07;Střední Morava;25,0;2,2;5,5
+CZ08;Moravskoslezsko;24,8;4,6;8,2
+DK01;Hovedstaden;53,3;5,7;6,7
+DK02;Sjælland;53,3;5,0;8,2
+DK03;Syddanmark;55,6;4,5;7,0
+DK04;Midtjylland;52,7;4,8;6,7
+DK05;Nordjylland;55,5;5,2;8,0
+DE11;Stuttgart;49,8;3,1;5,9
+DE12;Karlsruhe;48,2;3,4;7,0
+DE13;Freiburg;50,5;3,2;5,9
+DE14;Tübingen;52,3;3,0;5,6
+DE21;Oberbayern;50,2;2,7;5,8
+DE22;Niederbayern;55,4;1,8;
+DE23;Oberpfalz;58,7;2,4;
+DE24;Oberfranken;46,8;3,3;
+DE25;Mittelfranken;51,7;3,4;9,1
+DE26;Unterfranken;50,8;2,6;
+DE27;Schwaben;56,3;2,8;6,7
+DE30;Berlin;42,4;5,7;10,0
+DE40;Brandenburg;45,1;3,0;7,7
+DE50;Bremen;44,7;6,5;
+DE60;Hamburg;49,5;4,5;10,9
+DE71;Darmstadt;43,9;4,1;10,1
+DE72;Gießen;47,2;3,5;
+DE73;Kassel;50,6;3,0;
+DE80;Mecklenburg-Vorpommern;53,6;3,8;
+DE91;Braunschweig;46,6;3,9;7,9
+DE92;Hannover;49,9;2,8;7,3
+DE93;Lüneburg;49,3;3,1;
+DE94;Weser-Ems;51,5;3,6;8,3
+DEA1;Düsseldorf;43,1;4,4;9,6
+DEA2;Köln;45,5;4,1;6,8
+DEA3;Münster;50,9;3,7;8,1
+DEA4;Detmold;49,7;3,9;6,7
+DEA5;Arnsberg;44,7;4,2;8,7
+DEB1;Koblenz;54,9;2,8;
+DEB2;Trier;54,0;;
+DEB3;Rheinhessen-Pfalz;50,0;4,2;8,4
+DEC0;Saarland;42,5;3,2;
+DED2;Dresden;39,5;3,4;
+DED4;Chemnitz;51,6;2,3;
+DED5;Leipzig;43,8;4,5;
+DEE0;Sachsen-Anhalt;44,4;4,2;12,1
+DEF0;Schleswig-Holstein;54,1;3,2;9,0
+DEG0;Thüringen;47,6;3,5;
+IE04;Northern and Western;41,6;5,0;7,9
+IE05;Southern;43,0;6,5;7,7
+IE06;Eastern and Midland;42,9;6,5;7,6
+IE01;Border, Midland and Western (NUTS 2013);;;
+IE02;Southern and Eastern (NUTS 2013);;;
+EL30;Attiki;16,0;11,9;7,7
+EL41;Voreio Aigaio;17,9;13,9;22,1
+EL42;Notio Aigaio;13,0;18,8;11,8
+EL43;Kriti;12,3;16,3;9,3
+EL51;Anatoliki Makedonia, Thraki;13,6;18,5;18,6
+EL52;Kentriki Makedonia;9,1;16,1;10,1
+EL53;Dytiki Makedonia;10,1;19,8;10,3
+EL54;Ipeiros;7,5;15,1;8,1
+EL61;Thessalia;14,2;16,7;11,9
+EL62;Ionia Nisia;14,0;13,2;17,9
+EL63;Dytiki Elláda;14,6;17,5;15,6
+EL64;Sterea Elláda;13,9;17,2;17,1
+EL65;Peloponnisos;11,3;12,7;13,1
+ES11;Galicia;15,5;11,6;7,0
+ES12;Principado de Asturias;15,8;12,3;8,7
+ES13;Cantabria;16,3;11,3;6,0
+ES21;País Vasco;20,4;10,3;9,7
+ES22;Comunidad Foral de Navarra;23,2;10,7;8,5
+ES23;La Rioja;22,8;11,6;9,0
+ES24;Aragón;24,5;10,3;8,2
+ES30;Comunidad de Madrid;23,6;11,7;8,0
+ES41;Castilla y León;19,4;11,6;8,6
+ES42;Castilla-La Mancha;20,3;15,7;10,0
+ES43;Extremadura;15,4;20,2;13,0
+ES51;Cataluña;26,9;11,7;13,1
+ES52;Comunitat Valenciana;20,6;16,1;10,8
+ES53;Illes Balears;21,4;14,3;13,1
+ES61;Andalucía;16,5;21,9;13,0
+ES62;Región de Murcia;21,5;14,7;11,0
+ES63;Ciudad de Ceuta;;30,8;11,7
+ES64;Ciudad de Melilla;10,2;25,4;10,7
+ES70;Canarias;11,9;23,5;15,8
+FR10;Ile de France;27,8;8,0;9,2
+FRB0;Centre — Val de Loire;36,9;7,2;9,4
+FRC1;Bourgogne;37,4;7,1;10,1
+FRC2;Franche-Comté;34,2;7,0;10,3
+FRD1;Basse-Normandie;41,5;6,4;8,5
+FRD2;Haute-Normandie;34,0;7,6;11,9
+FRE1;Nord-Pas de Calais;30,9;8,8;15,4
+FRE2;Picardie;30,4;9,7;11,2
+FRF1;Alsace;35,8;7,1;9,2
+FRF2;Champagne-Ardenne;35,5;8,9;11,3
+FRF3;Lorraine;33,6;8,5;11,1
+FRG0;Pays de la Loire;33,7;6,0;7,9
+FRH0;Bretagne;39,1;5,8;8,8
+FRI1;Aquitaine;39,4;7,4;10,3
+FRI2;Limousin;42,9;6,3;9,2
+FRI3;Poitou-Charentes;30,8;8,6;15,2
+FRJ1;Languedoc-Roussillon;25,8;11,4;12,1
+FRJ2;Midi-Pyrénées;34,2;6,1;9,9
+FRK1;Auvergne;35,5;7,0;10,0
+FRK2;Rhône-Alpes;35,3;7,2;9,5
+FRL0;Provence-Alpes-Côte d’Azur;28,6;8,1;10,2
+FRM0;Corse;24,4;9,1;
+FRY1;Guadeloupe;14,3;17,1;18,5
+FRY2;Martinique;16,2;12,8;19,6
+FRY3;Guyane;12,1;14,6;22,2
+FRY4;La Réunion;17,6;17,9;19,1
+FRY5;Mayotte;;;
+HR02;Panonska Hrvatska;27,7;9,5;15,1
+HR03;Jadranska Hrvatska;24,0;9,2;14,2
+HR04;Kontinentalna Hrvatska (NUTS 2016);;;
+HR05;Grad Zagreb;19,5;5,3;8,7
+HR06;Sjeverna Hrvatska;32,6;4,6;10,0
+ITC1;Piemonte;21,2;7,3;17,7
+ITC2;Valle d’Aosta/Vallée d’Aoste;20,2;7,3;16,1
+ITC3;Liguria;17,5;8,4;17,1
+ITC4;Lombardia;21,6;5,9;17,3
+ITF1;Abruzzo;14,9;9,3;17,0
+ITF2;Molise;16,0;10,9;20,6
+ITF3;Campania;12,4;19,3;27,7
+ITF4;Puglia;14,4;14,6;24,6
+ITF5;Basilicata;10,3;8,3;21,4
+ITF6;Calabria;10,6;18,0;27,2
+ITG1;Sicilia;10,6;18,7;30,2
+ITG2;Sardegna;14,3;13,5;18,9
+ITH1;Provincia Autonoma di Bolzano/Bozen;36,3;3,8;10,5
+ITH2;Provincia Autonoma di Trento;26,8;4,8;14,6
+ITH3;Veneto;22,2;5,3;13,6
+ITH4;Friuli-Venezia Giulia;23,5;5,7;15,2
+ITH5;Emilia-Romagna;20,4;5,5;13,5
+ITI1;Toscana;19,5;7,5;16,4
+ITI2;Umbria;16,0;6,6;16,7
+ITI3;Marche;20,7;7,1;12,7
+ITI4;Lazio;15,2;10,0;17,7
+LT01;Sostinės regionas;34,1;4,8;7,3
+LT02;Vidurio ir vakarų Lietuvos regionas;30,0;8,2;12,8
+HU11;Budapest;25,3;2,9;5,5
+HU12;Pest;24,5;2,9;6,3
+HU10;Közép-Magyarország (NUTS 2013);;;
+HU21;Közép-Dunántúl;28,7;2,1;8,0
+HU22;Nyugat-Dunántúl;31,0;2,3;5,9
+HU23;Dél-Dunántúl;25,7;4,7;12,0
+HU31;Észak-Magyarország;27,2;6,2;18,6
+HU32;Észak-Alföld;27,2;7,0;17,1
+HU33;Dél-Alföld;25,9;4,4;9,9
+NL11;Groningen;69,7;5,4;2,9
+NL12;Friesland (NL);73,2;4,5;2,1
+NL13;Drenthe;75,6;3,5;2,8
+NL21;Overijssel;74,8;3,8;2,1
+NL22;Gelderland;73,3;3,9;2,7
+NL23;Flevoland;68,8;4,6;4,0
+NL31;Utrecht (NUTS 2021);;;
+NL32;Noord-Holland;71,4;4,5;2,6
+NL33;Zuid-Holland (NUTS 2021);;;
+NL34;Zeeland;78,7;3,6;
+NL35;Utrecht;70,4;4,0;2,0
+NL36;Zuid-Holland;67,6;5,1;3,0
+NL41;Noord-Brabant;75,5;3,2;2,1
+NL42;Limburg (NL);70,1;3,8;4,0
+AT11;Burgenland;47,8;5,1;
+AT12;Niederösterreich;50,7;5,1;8,7
+AT13;Wien;39,1;12,1;11,4
+AT21;Kärnten;51,6;5,6;5,9
+AT22;Steiermark;53,0;4,3;8,3
+AT31;Oberösterreich;56,7;3,8;6,6
+AT32;Salzburg;54,3;4,6;7,6
+AT33;Tirol;53,1;4,8;7,1
+AT34;Vorarlberg;58,4;4,1;8,8
+PL21;Małopolskie;23,7;3,2;10,3
+PL22;Śląskie;28,5;2,9;14,7
+PL41;Wielkopolskie;38,9;2,3;7,6
+PL42;Zachodniopomorskie;23,4;3,5;13,2
+PL43;Lubuskie;25,9;;14,8
+PL51;Dolnośląskie;27,3;4,1;10,9
+PL52;Opolskie;30,3;2,8;8,9
+PL61;Kujawsko-pomorskie;26,0;4,5;12,1
+PL62;Warmińsko-mazurskie;22,9;3,5;7,9
+PL63;Pomorskie;28,5;2,4;9,8
+PL71;Łódzkie;28,2;4,5;10,8
+PL72;Świętokrzyskie;23,3;4,5;12,5
+PL81;Lubelskie;24,0;5,2;13,3
+PL82;Podkarpackie;18,4;4,8;9,8
+PL84;Podlaskie;24,0;3,2;10,0
+PL91;Warszawski stołeczny;34,0;2,1;14,9
+PL92;Mazowiecki regionalny;27,4;3,8;7,0
+PT11;Norte;24,6;6,7;8,0
+PT15;Algarve;24,0;8,6;
+PT16;Centro (PT) (NUTS 2021);;;
+PT17;Área Metropolitana de Lisboa (NUTS 2021);;;
+PT18;Alentejo (NUTS 2021);;;
+PT19;Centro (PT);21,9;5,4;6,2
+PT1A;Grande Lisboa;21,9;6,8;7,6
+PT1B;Península de Setúbal;23,8;8,7;9,5
+PT1C;Alentejo;24,7;6,8;8,2
+PT1D;Oeste e Vale do Tejo;20,9;6,0;8,7
+PT30;Região Autónoma da Madeira;15,6;7,8;12,2
+RO11;Nord-Vest;20,4;3,1;12,7
+RO12;Centru;17,8;5,1;23,6
+RO21;Nord-Est;25,9;6,8;17,7
+RO22;Sud-Est;25,2;6,0;22,3
+RO31;Sud-Muntenia;23,1;7,7;18,5
+RO32;Bucureşti-Ilfov;20,9;3,5;10,3
+RO41;Sud-Vest Oltenia;17,1;9,2;22,4
+RO42;Vest;11,9;3,5;14,6
+SI03;Vzhodna Slovenija;29,6;5,0;7,1
+SI01;Vzhodna Slovenija (NUTS 2010);;;
+SI04;Zahodna Slovenija;29,4;4,5;6,1
+SI02;Zahodna Slovenija (NUTS 2010);;;
+SK01;Bratislavský kraj;15,2;2,6;
+SK02;Západné Slovensko;24,7;4,7;6,4
+SK03;Stredné Slovensko;21,6;7,5;9,6
+SK04;Východné Slovensko;18,2;10,9;18,4
+FI19;Länsi-Suomi;41,8;7,7;8,5
+FI1B;Helsinki-Uusimaa;45,9;7,7;5,5
+FI1C;Etelä-Suomi;43,1;7,5;8,2
+FI1D;Pohjois- ja Itä-Suomi;44,0;7,8;9,6
+FI20;Åland;;;
+SE11;Stockholm;40,7;8,3;4,7
+SE12;Östra Mellansverige;38,4;9,8;5,1
+SE21;Småland med öarna;41,4;7,6;5,3
+SE22;Sydsverige;38,7;11,3;4,9
+SE23;Västsverige;43,2;8,5;5,9
+SE31;Norra Mellansverige;39,5;9,8;4,2
+SE32;Mellersta Norrland;51,9;6,3;
+SE33;Övre Norrland;38,3;6,2;

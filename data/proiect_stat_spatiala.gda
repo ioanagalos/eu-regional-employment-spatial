@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <title>harta nooua</title>
+    <layers>
+        <layer>
+            <datasource>
+                <type>ESRI Shapefile</type>
+                <path>nuts2_regions.shp</path>
+            </datasource>
+            <layername>harta nooua</layername>
+            <title/>
+            <variable_order>
+                <time_ids>
+                    <id>time 0</id>
+                </time_ids>
+                <var>NUTS_ID</var>
+                <var>LEVL_CODE</var>
+                <var>CNTR_CODE</var>
+                <var>NAME_LATN</var>
+                <var>NUTS_NAME</var>
+                <var>MOUNT_TYPE</var>
+                <var>URBN_TYPE</var>
+                <var>COAST_TYPE</var>
+                <var>FID</var>
+                <var>MORT_INF</var>
+                <var>
+                    LIFE_EXP
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    FERTILITY
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    MORT__F_RT
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>nutsid</var>
+                <var>Regio_Name</var>
+                <var>
+                    Emplo_Rate
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    Unemp_2021
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    NEET_Youth
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+            </variable_order>
+            <custom_classifications/>
+            <weights_entries>
+                <weights>
+                    <title>matrice W</title>
+                    <default/>
+                    <meta_info>
+                        <weights_type>threshold</weights_type>
+                        <dist_metric>euclidean</dist_metric>
+                        <dist_units>meter</dist_units>
+                        <dist_values>centroids</dist_values>
+                        <threshold_val>1335937.024950562</threshold_val>
+                        <path>matrice_W.gwt</path>
+                        <id_variable>NUTS_ID</id_variable>
+                        <symmetry>symmetric</symmetry>
+                        <num_observations>258</num_observations>
+                        <min_neighbors>1</min_neighbors>
+                        <max_neighbors>215</max_neighbors>
+                        <mean_neighbors>161.45736434108528</mean_neighbors>
+                        <median_neighbors>188</median_neighbors>
+                        <non_zero_perc>62.580373775614447</non_zero_perc>
+                    </meta_info>
+                </weights>
+            </weights_entries>
+            <default_vars>
+                <default_var>
+                    <name>Emplo_Rate</name>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name>NEET_Youth</name>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+            </default_vars>
+        </layer>
+    </layers>
+</project>
